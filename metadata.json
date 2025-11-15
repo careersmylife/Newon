@@ -1,0 +1,7 @@
+{
+  "name": "DP World Container Booking System",
+  "description": "A voice-powered application to book containers using DPW Reference and Token numbers. This system leverages real-time voice interaction for a hands-free booking experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
